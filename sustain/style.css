@@ -1,0 +1,20 @@
+body{
+  background-color:rgb(117, 235, 166);
+}
+
+#b{
+  position: absolute;
+  top: 130px;
+  left: 300px;
+  opacity:0;
+}
+
+#gameb{
+  position: absolute;
+  top: 150px;
+  left: 50%;
+}
+
+#margin{
+  margin-bottom: 35px;
+}
